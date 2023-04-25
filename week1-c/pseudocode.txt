@@ -1,0 +1,3 @@
+prompt user for height
+if height is btween 1 and 8, run(go next step). If not, go back and ask height again.
+use for loop...
