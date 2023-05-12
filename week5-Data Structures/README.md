@@ -62,7 +62,7 @@ unsigned int hash(const char *word)
 - deterministic
 }
 ```
-Example Hash Function
+> Example Hash Function
 - First letter
 - First two letters
 - Math using all the letters
