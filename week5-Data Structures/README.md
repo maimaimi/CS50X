@@ -84,7 +84,7 @@ bool check(const char *word) 
 TODO
 }
 ```
-> Traversing Linked List
+**Traversing Linked List**
 - Start with cursor set to first time in linked list
 - Keep moving cursor until you get to NULL, checking each node for the word. 
 ```
